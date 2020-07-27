@@ -1,0 +1,3 @@
+﻿A delegate is a typesafe function pointer
+A multitask delegate points to more than one function. When the delegatr is called, all the funtions 
+it points to are invoked

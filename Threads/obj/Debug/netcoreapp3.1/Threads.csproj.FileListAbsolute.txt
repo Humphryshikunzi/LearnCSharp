@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\LearnC#\Threads\bin\Debug\netcoreapp3.1\Threads.exe
+C:\Users\user\Desktop\LearnC#\Threads\bin\Debug\netcoreapp3.1\Threads.deps.json
+C:\Users\user\Desktop\LearnC#\Threads\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.json
+C:\Users\user\Desktop\LearnC#\Threads\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.dev.json
+C:\Users\user\Desktop\LearnC#\Threads\bin\Debug\netcoreapp3.1\Threads.dll
+C:\Users\user\Desktop\LearnC#\Threads\bin\Debug\netcoreapp3.1\Threads.pdb
+C:\Users\user\Desktop\LearnC#\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LearnC#\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfo.cs
+C:\Users\user\Desktop\LearnC#\Threads\obj\Debug\netcoreapp3.1\Threads.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LearnC#\Threads\obj\Debug\netcoreapp3.1\Threads.dll
+C:\Users\user\Desktop\LearnC#\Threads\obj\Debug\netcoreapp3.1\Threads.pdb
+C:\Users\user\Desktop\LearnC#\Threads\obj\Debug\netcoreapp3.1\Threads.genruntimeconfig.cache
+C:\Users\user\Desktop\LearnC#\Threads\obj\Debug\netcoreapp3.1\Threads.csprojAssemblyReference.cache

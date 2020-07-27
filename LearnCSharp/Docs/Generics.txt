@@ -1,0 +1,6 @@
+This helps to operate on different datatypes, such that you define the datatype on which your method or class will work on as T and give the real type at creation of 
+the instance of the class.
+Mostly used with classes, delegates, interfaces e.t.c
+Generics avoid using the object class, which otherwise is 
+            // legal in C#, eventhough its causes degradation due to boxing 
+            // and unboxing that is done alot 

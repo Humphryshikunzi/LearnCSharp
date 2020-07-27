@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\obj\Debug\netcoreapp3.1\Type Conversion.csprojAssemblyReference.cache
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\obj\Debug\netcoreapp3.1\Type Conversion.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\obj\Debug\netcoreapp3.1\Type Conversion.AssemblyInfo.cs
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\obj\Debug\netcoreapp3.1\Type Conversion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\bin\Debug\netcoreapp3.1\Type Conversion.exe
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\bin\Debug\netcoreapp3.1\Type Conversion.deps.json
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\bin\Debug\netcoreapp3.1\Type Conversion.runtimeconfig.json
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\bin\Debug\netcoreapp3.1\Type Conversion.runtimeconfig.dev.json
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\bin\Debug\netcoreapp3.1\Type Conversion.dll
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\bin\Debug\netcoreapp3.1\Type Conversion.pdb
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\obj\Debug\netcoreapp3.1\Type Conversion.dll
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\obj\Debug\netcoreapp3.1\Type Conversion.pdb
+C:\Users\user\Desktop\LearnC#\Operators\Type Conversion\obj\Debug\netcoreapp3.1\Type Conversion.genruntimeconfig.cache

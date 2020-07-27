@@ -1,0 +1,3 @@
+﻿Polymophism enables us call derrived class members using base class instance at run time
+The base class implementation is marked virtual whereas the derrived class implementation is marked 
+override. If the derrived class does not have implementation of the member, the base class will be called

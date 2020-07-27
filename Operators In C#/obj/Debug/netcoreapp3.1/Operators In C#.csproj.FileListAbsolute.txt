@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\bin\Debug\netcoreapp3.1\Operators In C#.exe
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\bin\Debug\netcoreapp3.1\Operators In C#.deps.json
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\bin\Debug\netcoreapp3.1\Operators In C#.runtimeconfig.json
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\bin\Debug\netcoreapp3.1\Operators In C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\bin\Debug\netcoreapp3.1\Operators In C#.dll
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\bin\Debug\netcoreapp3.1\Operators In C#.pdb
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\obj\Debug\netcoreapp3.1\Operators In C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\obj\Debug\netcoreapp3.1\Operators In C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\obj\Debug\netcoreapp3.1\Operators In C#.AssemblyInfo.cs
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\obj\Debug\netcoreapp3.1\Operators In C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\obj\Debug\netcoreapp3.1\Operators In C#.dll
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\obj\Debug\netcoreapp3.1\Operators In C#.pdb
+C:\Users\user\Desktop\LearnC#\Operators\Operators In C#\obj\Debug\netcoreapp3.1\Operators In C#.genruntimeconfig.cache

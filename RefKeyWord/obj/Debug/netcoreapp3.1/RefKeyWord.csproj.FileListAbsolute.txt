@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\LearnC#\RefKeyWord\obj\Debug\netcoreapp3.1\RefKeyWord.csprojAssemblyReference.cache
+C:\Users\user\Desktop\LearnC#\RefKeyWord\obj\Debug\netcoreapp3.1\RefKeyWord.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LearnC#\RefKeyWord\obj\Debug\netcoreapp3.1\RefKeyWord.AssemblyInfo.cs
+C:\Users\user\Desktop\LearnC#\RefKeyWord\obj\Debug\netcoreapp3.1\RefKeyWord.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LearnC#\RefKeyWord\bin\Debug\netcoreapp3.1\RefKeyWord.exe
+C:\Users\user\Desktop\LearnC#\RefKeyWord\bin\Debug\netcoreapp3.1\RefKeyWord.deps.json
+C:\Users\user\Desktop\LearnC#\RefKeyWord\bin\Debug\netcoreapp3.1\RefKeyWord.runtimeconfig.json
+C:\Users\user\Desktop\LearnC#\RefKeyWord\bin\Debug\netcoreapp3.1\RefKeyWord.runtimeconfig.dev.json
+C:\Users\user\Desktop\LearnC#\RefKeyWord\bin\Debug\netcoreapp3.1\RefKeyWord.dll
+C:\Users\user\Desktop\LearnC#\RefKeyWord\bin\Debug\netcoreapp3.1\RefKeyWord.pdb
+C:\Users\user\Desktop\LearnC#\RefKeyWord\obj\Debug\netcoreapp3.1\RefKeyWord.dll
+C:\Users\user\Desktop\LearnC#\RefKeyWord\obj\Debug\netcoreapp3.1\RefKeyWord.pdb
+C:\Users\user\Desktop\LearnC#\RefKeyWord\obj\Debug\netcoreapp3.1\RefKeyWord.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\obj\Debug\netcoreapp3.1\Conditional Operations.csprojAssemblyReference.cache
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\obj\Debug\netcoreapp3.1\Conditional Operations.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\obj\Debug\netcoreapp3.1\Conditional Operations.AssemblyInfo.cs
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\obj\Debug\netcoreapp3.1\Conditional Operations.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\bin\Debug\netcoreapp3.1\Conditional Operations.exe
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\bin\Debug\netcoreapp3.1\Conditional Operations.deps.json
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\bin\Debug\netcoreapp3.1\Conditional Operations.runtimeconfig.json
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\bin\Debug\netcoreapp3.1\Conditional Operations.runtimeconfig.dev.json
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\bin\Debug\netcoreapp3.1\Conditional Operations.dll
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\bin\Debug\netcoreapp3.1\Conditional Operations.pdb
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\obj\Debug\netcoreapp3.1\Conditional Operations.dll
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\obj\Debug\netcoreapp3.1\Conditional Operations.pdb
+C:\Users\user\Desktop\LearnC#\Operators\Conditional Operations\obj\Debug\netcoreapp3.1\Conditional Operations.genruntimeconfig.cache

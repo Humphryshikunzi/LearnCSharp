@@ -1,0 +1,5 @@
+﻿Process -  The resources and all that the operating system provides to facilitate
+		   the excution of a program
+Thread - Lightweight process
+If you want to pass data to the thread, use the ParameterisedThreadStart delegate
+and the parameters to the method should reference type (object)

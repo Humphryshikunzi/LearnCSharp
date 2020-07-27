@@ -1,0 +1,3 @@
+﻿In the override, a base class instance pointing to a derrived class object runs the method in the derrived
+class while in method hiding, a base class instance pointing to a derived class object implements the hidden
+method

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\LearnC#\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.exe
+C:\Users\user\Desktop\LearnC#\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.deps.json
+C:\Users\user\Desktop\LearnC#\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.runtimeconfig.json
+C:\Users\user\Desktop\LearnC#\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.runtimeconfig.dev.json
+C:\Users\user\Desktop\LearnC#\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.dll
+C:\Users\user\Desktop\LearnC#\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.pdb
+C:\Users\user\Desktop\LearnC#\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LearnC#\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.AssemblyInfo.cs
+C:\Users\user\Desktop\LearnC#\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LearnC#\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.dll
+C:\Users\user\Desktop\LearnC#\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.pdb
+C:\Users\user\Desktop\LearnC#\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.genruntimeconfig.cache
+C:\Users\user\Desktop\LearnC#\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.csprojAssemblyReference.cache

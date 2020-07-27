@@ -1,0 +1,2 @@
+In early binding, all errors are detected at compile time while in late binding, we create 
+an instance of the class that we don't have information about at compile time

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\LearnC#\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\user\Desktop\LearnC#\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\user\Desktop\LearnC#\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\user\Desktop\LearnC#\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\user\Desktop\LearnC#\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\user\Desktop\LearnC#\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\user\Desktop\LearnC#\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\user\Desktop\LearnC#\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LearnC#\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\user\Desktop\LearnC#\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LearnC#\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\user\Desktop\LearnC#\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\user\Desktop\LearnC#\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
