@@ -1,36 +1,24 @@
-// Online C# Editor for free
-// Write, Edit and Run your C# code using C# Online Compiler
-    
-using System;
-using System.Collections.Generic;
+ using System;
+// you can also use other imports, for example:
+using System.Collections.Generic; 
+using System.Linq;
+// you can write to stdout for debugging purposes, e.g.
+// Console.WriteLine("this is a debug message");
 
-public class HelloWorld
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine ("Hello Mono World\n"); 
-        
-        int decimalNumber = 840;
-        List<int> binaryNumberGap = 
-                            BinaryGap(decimalNumber);
-        Console.WriteLine("Decimal Number : + ${decimalNumber}\n");
-        Console.WriteLine("Binary Number : + ${binaryNumberGap[0]}\n");
-        Console.WriteLine($"Biggest Binary Number Gap : ${binaryNumberGap[1]}\n"); 
-    }
-    
-    static List<int> BinaryGap(int n)
-    {
-      int binaryNumber;
-      string  binaryNumberStr = "";
-      string  decimalNumberStr = n.ToString();
-      List<int> rems = new List<int>();
+class Solution {
+    public int solution(int N) {
+        // write your code in C# 6.0 with .NET 4.5 (Mono)
+      int hold = N; 
+      string  binaryNumberStr = ""; 
       int maxBinaryGap;
       
+      // convert decimal number to binary
+
       while(true)
       {
-         int rem = n%2;
-         int quotient = n/2;
-         n = quotient;
+         int rem = N%2;
+         int quotient = N/2;
+         N = quotient;
          binaryNumberStr = binaryNumberStr + rem.ToString();
          
          if(quotient==0)
@@ -39,52 +27,73 @@ public class HelloWorld
          }
       }
     
-     char[] binaryNumberCrs = binaryNumberStr.ToCharArray();
+    
+      char[] binaryNumberCrs = binaryNumberStr.ToCharArray();
       Array.Reverse(binaryNumberCrs);
       binaryNumberStr = new String(binaryNumberCrs);
+
+      Console.WriteLine("Decimal numbers is :" + hold);
+      Console.WriteLine("Binary numbers is :");
       Console.WriteLine(binaryNumberStr);
-      binaryNumberCrs = binaryNumberStr.ToCharArray();
-      
+
+      binaryNumberCrs = binaryNumberStr.ToCharArray();      
       int binaryNumberLength = binaryNumberStr.Length;
-      Dictionary<string, int> gapNums = 
-                            new Dictionary<string,int>();
+      Dictionary<string, int> gapNums = new Dictionary<string,int>();
       int counter = 1;
-      int counterValue = 1;
-      
-       for(int i=0; i<=binaryNumberLength; i++)
+      int counterValue ;
+      int lastBinaryNum = 
+                      int.Parse(binaryNumberCrs[binaryNumberLength-1].ToString());
+                
+       for(int i=0; i<binaryNumberLength-1; i++)
        {
-           int currentBinaryNum = 
-                int.Parse(binaryNumberCrs[i].ToString());
-           int nextBinaryNum = 
-                int.Parse(binaryNumberCrs[i+1].ToString());
-           
+           int currentBinaryNum =  int.Parse(binaryNumberCrs[i].ToString());
+           int nextBinaryNum =   int.Parse(binaryNumberCrs[i+1].ToString());
+
            if(currentBinaryNum==1 && nextBinaryNum==0)
            {
+               counterValue = 1;
+
                while(true)
-               {
+               { 
                    gapNums[$"Counter{counter}"] = counterValue;
                    counterValue++;
                    i++;
-                   currentBinaryNum = 
-                        int.Parse(binaryNumberCrs[i].ToString());
-                   nextBinaryNum = 
-                            int.Parse(binaryNumberCrs[i+1]
-                               .ToString());  
+
+                   currentBinaryNum = int.Parse(binaryNumberCrs[i].ToString());
+                   nextBinaryNum =  int.Parse(binaryNumberCrs[i+1].ToString());  
                                
-                   if(currentBinaryNum==0 && 
-                      nextBinaryNum==1)
-                      {
-                          break;
-                      }
+                    // next encounter,  
+
+                   if(currentBinaryNum==0 && nextBinaryNum==1)
+                    {
+                        break;
+                    }
+                    
+                    // last element is zero, end 
+                    
+                    if(lastBinaryNum==0 && (i+1)==binaryNumberLength-1)
+                    {
+                        gapNums[$"Counter{counter}"] = 0;
+
+                        break;
+                    } 
                }
            }
            
            counter++;
        }
        
-       maxBinaryGap = gapNums.Values.Max();
-      
-      return new List<int>()
-       { int.Parse(binaryNumberStr), maxBinaryGap };
+       try  
+       {
+            maxBinaryGap = gapNums.Values.Max();
+            Console.WriteLine($"Binary gap is : {maxBinaryGap}");
+            return maxBinaryGap;
+       }
+       catch
+       {
+            // the number is all ones, like 1111 , max binary gap is zero
+            return 0;
+
+       } 
     }
 }
